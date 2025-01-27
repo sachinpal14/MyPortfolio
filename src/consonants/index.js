@@ -54,13 +54,15 @@ export const PROJECTS=[
     title:"Portfolio Website",
     image:project1,
     description:"This is my Portfolio Website.In this project i have mention my all active social media accounts , a brief intoduction and all the technologies that i have learned ,my experiences,skills and achievement. For animations,I used Framer-Motion Library. ",
-    technologies:["HTML","CSS","Javascript","React.js","Node.js","TailwindCSS"]
+    technologies:["HTML","CSS","Javascript","React.js","Node.js","TailwindCSS"],
+    link_url:"https://my-portfolio-theta-kohl-41.vercel.app/"
 },
 {
-    title:"Age Calculator",
+    title:"Currency Calculator",
     image:project2,
-    description:"It tell us the age of user ,to calculate the age user have to mention the Date Of Birth and they wil find their exact age.",
-    technologies:["HTML","CSS","Javascript"]
+    description:"In this calculator , we can convert the value of any country's currency to another country's currency.I also focused on the responsiveness in this project.",
+    technologies:["HTML","CSS","Javascript","React.js","TailwindCSS"],
+    link_url:"https://currency-convertor-ecru-eight.vercel.app/"
 },
 {
     title:"Ecommercial Website Clone",

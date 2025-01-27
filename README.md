@@ -1,8 +1,15 @@
-# React + Vite
+## 📜 About Me
+Hi, I'm **Sachin Pal**, a Frontend Developer passionate about building solutions using **Javascript**. I enjoy creating innovative projects, solving real-world problems, and constantly learning new things.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🛠 Skills
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Programming Languages:
+- Javascript 
+
+### Frameworks & Tools:
+- React.js
+- Tailwind CSS
+ 
+---

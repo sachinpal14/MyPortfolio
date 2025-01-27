@@ -41,13 +41,6 @@ const Technologies = () => {
                 <RiReactjsLine className='text-7xl text-cyan-400'/>
             </motion.div>
             <motion.div
-            variants={iconduration(3)}
-            initial="initial"
-             animate="animate"
-            className="rounded-2xl border-4 border-neutral-800 p-4">
-                <RiNextjsLine className='text-7xl'/>
-            </motion.div>
-            <motion.div
             variants={iconduration(5)}
             initial="initial"
              animate="animate"
