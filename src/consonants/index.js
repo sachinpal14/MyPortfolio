@@ -54,13 +54,13 @@ export const PROJECTS=[
     title:"Portfolio Website",
     image:project1,
     description:"This is my Portfolio Website.In this project i have mention my all active social media accounts , a brief intoduction and all the technologies that i have learned ,my experiences,skills and achievement. For animations,I used Framer-Motion Library. ",
-    technologies:["HTML","CSS","Javascript","React.js","Node.js","TailwindCSS"],
+    technologies:[ "Javascript","React.js","Node.js","TailwindCSS" ,"Framer Motion"],
     link_url:"https://my-portfolio-theta-kohl-41.vercel.app/"
 },
 {
     title:"Currency Calculator",
     image:project2,
-    description:"In this calculator , we can convert the value of any country's currency to another country's currency.I also focused on the responsiveness in this project.",
+    description:"In this calculator , we can convert the value of any country's currency to another country's currency.I also focused on the responsiveness in this project.This Project focus on the API handlling in the React.js",
     technologies:["HTML","CSS","Javascript","React.js","TailwindCSS"],
     link_url:"https://currency-convertor-ecru-eight.vercel.app/"
 },
@@ -68,7 +68,7 @@ export const PROJECTS=[
     title:"Food Delivery Website ",
     image:Project3,
     description:"The Food Delivery Website name (Pikachu Food Delivery) frontend is a modern and responsive web application designed to provide users with a seamless food ordering experience. Built using React.js, it offers an intuitive UI, smooth animations, and efficient state management for dynamic interactions.",
-    technologies:["Javascript","React.js","Redux toolkit","TailwindCSS"],
+    technologies:["Javascript","React.js","Redux toolkit","TailwindCSS","Framer Motion"],
     link_url:"https://pikachu-food-delivery.vercel.app/"
 },
 {
