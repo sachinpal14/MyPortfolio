@@ -65,16 +65,18 @@ export const PROJECTS=[
     link_url:"https://currency-convertor-ecru-eight.vercel.app/"
 },
 {
-    title:"Ecommercial Website Clone",
+    title:"Food Delivery Website ",
     image:Project3,
-    description:"This is the clone of an E-commercial website UI . While designing it i used differnt library for animations and to make the UI more attractive and engaging .This is the exactly clone.",
-    technologies:["HTML","CSS","Javascript","React.js","Node.js","TailwindCSS"]
+    description:"The Food Delivery Website name (Pikachu Food Delivery) frontend is a modern and responsive web application designed to provide users with a seamless food ordering experience. Built using React.js, it offers an intuitive UI, smooth animations, and efficient state management for dynamic interactions.",
+    technologies:["Javascript","React.js","Redux toolkit","TailwindCSS"],
+    link_url:"https://pikachu-food-delivery.vercel.app/"
 },
 {
-    title:"Text-to-Speech",
+    title:"Small E-Commerce",
     image:project4,
-    description:"In this basic and the project i used the deep knowledge of javascript and the raw CSS and basic HTML . In this user have to give their text and it will speak it.",
-    technologies:["HTML","CSS","Javascript"]
+    description:"The E-Commerce Website frontend is a modern, responsive, and interactive web application that allows users to browse products, add them to a cart, and proceed to checkout seamlessly. Built using React.js, Redux Toolkit, Tailwind CSS, and Framer Motion, it ensures a smooth and engaging shopping experience.",
+    technologies:["Javascript","React.js","Redux toolkit","TailwindCSS","FramerMotion" ],
+    link_url:"https://small-e-commerce-git-main-sachin-pals-projects-879c7fd3.vercel.app/"
 },
 
 
