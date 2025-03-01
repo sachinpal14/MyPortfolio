@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className='m-8 flex items-center text-xl cursor-pointer justify-center gap-4'>
           <a href="https://github.com/settings/profile"><FaGithub/></a>
         
-        <a href="https://www.linkedin.com/in/sachin-pal-1402pika1708">
+        <a href="https://www.linkedin.com/in/sachinpal14-02-">
         <FaLinkedin/>
         </a>
         <a href="https://x.com/sachinpalsp1402">  <FaTwitter/></a>
